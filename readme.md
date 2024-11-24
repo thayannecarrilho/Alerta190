@@ -37,9 +37,7 @@ Este aplicativo permite que os usuários solicitem ajuda rapidamente. Ao abrir o
 
 ## Capturas de Tela
 
-<img height="200px" src="./assets/1.jpeg">
-<img height="200px" src="./assets/2.jpeg">
-<img height="200px" src="./assets/3.jpeg">
+<img height="400px" src="./assets/1.jpeg"><img height="400px" src="./assets/2.jpeg"><img height="400px" src="./assets/3.jpeg">
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto e enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
